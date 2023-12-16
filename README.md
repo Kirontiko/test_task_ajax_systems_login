@@ -32,5 +32,8 @@ password - qa_automation_password
 * Dynamic extraction of device udid;
 
 ### Logs example
+![image](https://github.com/Kirontiko/test_task_ajax_systems_login/assets/90575903/7f2b3bcf-9a4e-4fb6-9333-c17ae7d51312)
 
-### Test Result
+### Test Results
+![image](https://github.com/Kirontiko/test_task_ajax_systems_login/assets/90575903/2f58c3a2-6c47-412f-9946-b234a81a2bef)
+
