@@ -22,3 +22,15 @@
 ### Login credentials
 login - qa.ajax.app.automation@gmail.com
 password - qa_automation_password
+
+
+## Result
+### Implemented: 
+* Login page interaction logic;
+* Tests with incorrect and correct data;
+* Test logging;
+* Dynamic extraction of device udid;
+
+### Logs example
+
+### Test Result
